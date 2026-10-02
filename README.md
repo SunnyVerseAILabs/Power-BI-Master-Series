@@ -73,7 +73,7 @@ Power-BI-Master-Series/
 ├── README.md
 ├── LICENSE.md
 │
-├── Module_01/
+├── Module 1 Learner Kit/
 │   ├── 01_Module_01_Detailed_Build_Guide.docx
 │   ├── 02_Module_01_Knowledge_Check.docx
 │   ├── Guide_Images/
@@ -81,15 +81,15 @@ Power-BI-Master-Series/
 │   ├── Source_Files/
 │   └── Validation/
 │
-├── Module_02/
-├── Module_03/
-├── Module_04/
-├── Module_05/
-├── Module_06/
-├── Module_07/
-├── Module_08/
-├── Module_09/
-└── Module_10/
+├── Module 2 Learner Kit/
+├── Module 3 Learner Kit/
+├── Module 4 Learner Kit/
+├── Module 5 Learner Kit/
+├── Module 6 Learner Kit/
+├── Module 7 Learner Kit/
+├── Module 8 Learner Kit/
+├── Module 9 Learner Kit/
+└── Module 10 Learner Kit/
 ```
 
 Not every module is required to contain every folder. The contents reflect the learning objectives and practical activities of that module.
