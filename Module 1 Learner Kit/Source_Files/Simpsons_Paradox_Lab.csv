@@ -1,0 +1,5 @@
+﻿Region,WeatherCondition,WithinToleranceDays,TotalDays,Rate
+Region A,Normal Weather,9,10,0.9
+Region B,Normal Weather,720,900,0.8
+Region A,Severe Weather,270,900,0.3
+Region B,Severe Weather,2,10,0.2

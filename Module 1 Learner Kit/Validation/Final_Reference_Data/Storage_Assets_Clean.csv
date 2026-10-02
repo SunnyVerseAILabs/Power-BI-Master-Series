@@ -1,0 +1,4 @@
+﻿PlantID,PlantName,StorageConfiguration,StoragePowerMW,StorageEnergyMWh
+SVR-010,Battery Hub West,Standalone BESS,100,400
+SVR-011,SunStore Hybrid,Solar + BESS,50,200
+SVR-012,WindStore Hybrid,Wind + BESS,40,160

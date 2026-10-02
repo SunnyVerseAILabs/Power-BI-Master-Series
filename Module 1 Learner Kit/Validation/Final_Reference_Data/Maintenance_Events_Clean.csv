@@ -1,0 +1,9 @@
+﻿MaintenanceID,PlantID,EventDate,MaintenanceType,DowntimeHours,Status
+M-001,SVR-001,2026-09-07,Planned inspection,4.0,Completed
+M-002,SVR-003,2026-09-18,Inverter inspection,6.0,Completed
+M-003,SVR-005,2026-09-22,Turbine inspection,5.0,Completed
+M-004,SVR-007,2026-09-09,Offshore turbine repair,10.0,Completed
+M-005,SVR-007,2026-09-10,Offshore turbine repair,8.0,Completed
+M-006,SVR-009,2026-09-24,Feed system maintenance,7.0,Completed
+M-007,SVR-010,2026-09-26,Battery HVAC inspection,3.0,Completed
+M-008,SVR-012,2026-09-28,Storage controller test,2.0,Completed

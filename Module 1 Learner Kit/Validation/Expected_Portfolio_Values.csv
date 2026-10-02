@@ -1,0 +1,14 @@
+﻿Metric,ExpectedValue,Unit/Format,Definition
+Region Count,4,count,Distinct regions
+Plant/Asset Count,12,count,All enterprise assets including standalone BESS
+Generating Asset Count,11,count,Assets with GenerationCapacityMW > 0
+Technology Family Count,7,count,"Solar, Wind, Hydro, BESS, Geothermal, Biomass/Biogas, Hybrid"
+Generation Capacity,2190,MW,Sum GenerationCapacityMW; standalone BESS storage power excluded
+Storage Power,190,MW,Sum StoragePowerMW
+Storage Energy,760,MWh,Sum StorageEnergyMWh
+Total Actual Generation,677383.4,MWh,Clean authoritative generation total
+Total Forecast Generation,676799.28,MWh,Clean authoritative forecast total
+Generation Variance,584.12,MWh,Actual - Forecast
+Generation Variance Percentage,0.0008630623838725124,percentage,(Actual - Forecast) / Forecast
+September Target,686951.28,MWh,Sum of regional September targets
+Target Attainment,0.9860719671415417,percentage,Actual / September Target

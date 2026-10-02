@@ -1,0 +1,13 @@
+﻿PlantID,PlantName,RegionID,TechnologyCode,GenerationCapacityMW,StoragePowerMW,StorageEnergyMWh,TechnicalSourceAuthority
+SVR-001,Cascade Hydro One,R01,T04,300,0,0,Operations & Engineering Plant Registry
+SVR-002,Rainshadow Hydro Two,R01,T04,180,0,0,Operations & Engineering Plant Registry
+SVR-003,Solara Mesa Solar,R02,T01,220,0,0,Operations & Engineering Plant Registry
+SVR-004,Red Rock Solar,R02,T01,180,0,0,Operations & Engineering Plant Registry
+SVR-005,Prairie Wind One,R03,T02,250,0,0,Operations & Engineering Plant Registry
+SVR-006,Prairie Wind Two,R03,T02,200,0,0,Operations & Engineering Plant Registry
+SVR-007,Atlantic Horizon Wind,R04,T03,350,0,0,Operations & Engineering Plant Registry
+SVR-008,GeoSpring One,R02,T06,120,0,0,Operations & Engineering Plant Registry
+SVR-009,BioCycle Plains,R03,T07,80,0,0,Operations & Engineering Plant Registry
+SVR-010,Battery Hub West,R02,T05,0,100,400,Operations & Engineering Plant Registry
+SVR-011,SunStore Hybrid,R02,T08,150,50,200,Operations & Engineering Plant Registry
+SVR-012,WindStore Hybrid,R04,T09,160,40,160,Operations & Engineering Plant Registry

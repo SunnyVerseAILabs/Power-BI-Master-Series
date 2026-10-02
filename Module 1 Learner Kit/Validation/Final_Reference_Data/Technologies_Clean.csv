@@ -1,0 +1,10 @@
+﻿TechnologyCode,TechnologyName,TechnologyFamily,AssetBehavior,RecognitionNote
+T01,Solar PV,Solar,Generation,Irradiance and daylight affect production.
+T02,Wind Onshore,Wind,Generation,Wind resource and turbine availability affect production.
+T03,Wind Offshore,Wind,Generation,Offshore wind resource and marine operating context affect production.
+T04,Hydroelectric,Hydro,Generation,"Water flow, reservoir/head context and dispatch affect production."
+T05,Battery Energy Storage System,BESS,Storage,"Storage is characterized by power, energy capacity, charge/discharge and state of charge."
+T06,Geothermal,Geothermal,Generation,Typically stable renewable generation with well and plant availability considerations.
+T07,Biomass/Biogas,Biomass/Biogas,Generation,Feedstock/fuel availability and plant operations affect output.
+T08,Hybrid Solar + BESS,Hybrid,Generation + Storage,Solar generation and storage coexist at one site.
+T09,Hybrid Wind + BESS,Hybrid,Generation + Storage,Wind generation and storage coexist at one site.
