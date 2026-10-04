@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MaintenanceEvents enterprise="SunnyVerse Renewable Group">
+  <MaintenanceEvent>
+    <MaintenanceID>M-201</MaintenanceID>
+    <PlantID>SVR-001</PlantID>
+    <EventDate>2026-09-07</EventDate>
+    <MaintenanceType>Planned inspection</MaintenanceType>
+    <DowntimeHours>4.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+  <MaintenanceEvent>
+    <MaintenanceID>M-202</MaintenanceID>
+    <PlantID>SVR-003</PlantID>
+    <EventDate>2026-09-18</EventDate>
+    <MaintenanceType>Inverter inspection</MaintenanceType>
+    <DowntimeHours>6.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+  <MaintenanceEvent>
+    <MaintenanceID>M-203</MaintenanceID>
+    <PlantID>SVR-005</PlantID>
+    <EventDate>2026-09-22</EventDate>
+    <MaintenanceType>Turbine inspection</MaintenanceType>
+    <DowntimeHours>5.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+  <MaintenanceEvent>
+    <MaintenanceID>M-204</MaintenanceID>
+    <PlantID>SVR-007</PlantID>
+    <EventDate>2026-09-09</EventDate>
+    <MaintenanceType>Offshore turbine repair</MaintenanceType>
+    <DowntimeHours>10.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+  <MaintenanceEvent>
+    <MaintenanceID>M-205</MaintenanceID>
+    <PlantID>SVR-009</PlantID>
+    <EventDate>2026-09-24</EventDate>
+    <MaintenanceType>Feed system maintenance</MaintenanceType>
+    <DowntimeHours>7.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+  <MaintenanceEvent>
+    <MaintenanceID>M-206</MaintenanceID>
+    <PlantID>SVR-010</PlantID>
+    <EventDate>2026-09-26</EventDate>
+    <MaintenanceType>Battery HVAC inspection</MaintenanceType>
+    <DowntimeHours>3.0</DowntimeHours>
+    <Status>Completed</Status>
+  </MaintenanceEvent>
+</MaintenanceEvents>

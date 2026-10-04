@@ -1,0 +1,12 @@
+﻿Metric,ExpectedValue,Unit/Meaning
+Regions,4,rows
+Technologies,9,rows / technology codes
+Plants,12,rows / assets
+Generating plants,11,assets
+IntervalGeneration,500000,rows
+BatteryStorageInterval,50000,rows
+vw_ConnectivityLab,500000,rows
+Interval start minimum,2025-07-01 00:00:00,UTC
+Interval start maximum,2026-10-17 11:30:00,UTC
+Interval total actual generation,10727271.3600,MWh
+Interval total forecast generation,10727272.9111,MWh

@@ -1,0 +1,8 @@
+{
+  "enterprise": "SunnyVerse Renewable Group",
+  "portfolio": {
+    "technologies": [
+      {"technologyCode": "T01", "technologyName": "Solar PV"},
+      {"technologyCode": "T02", "technologyName": "Wind Onshore"}
+    ]
+  // Intentionally malformed: closing braces are missing
