@@ -1,0 +1,27 @@
+﻿MaintenanceEventID,PlantID,WorkOrderID,MaintenanceType,Status,StartDateTimeText,EndDateTimeText,DurationHoursText,CostUSDText,TechnicianTeam,SafetyCriticalText,Notes
+MNT-001,SVR-001,WO-260701, preventive ,completed,2026-07-02 08:00,2026-07-02 12:00,4,"$1,250.00", Hydro Team A ,false,Routine gate inspection
+MNT-002,SVR-002,WO-260702,INSPECTION, Completed ,07/05/2026 09:30,07/05/2026 11:00,1.5,450,Hydro Team B,FALSE,Vibration check
+MNT-003,SVR-003,WO-260703,corrective,COMPLETED,06-Jul-2026 07:00,06-Jul-2026 13:30,6.5,"$2,875.50",Solar Team 1,true,Inverter fan replacement
+MNT-004,SVR-004,WO-260704,Calibration,completed,2026/07/11 10:00,2026/07/11 12:00,2,600.00, Solar Team 2,False,Irradiance sensor calibration
+MNT-005,SVR-005,WO-260705,PREVENTIVE,scheduled,2026-07-18 06:00,2026-07-18 10:00,4,$980.00,Wind Central,FALSE,Pitch system lubrication
+MNT-006,SVR-006,WO-260706,inspection,Completed,07/22/2026 08:00,07/22/2026 10:30,2.5,725.25,Wind Central ,false,Tower internal inspection
+MNT-007,SVR-007,WO-260707,Emergency,COMPLETED,23-Jul-2026 02:00,23-Jul-2026 08:00,6,"$12,500.00",Offshore Response,TRUE,Gearbox temperature alarm
+MNT-008,SVR-008,WO-260708, preventive,completed ,2026-07-28 07:00,2026-07-28 15:00,8,"3,250.00",Geo Team,false,Pump inspection
+MNT-009,SVR-009,WO-260709,Corrective,Completed,2026-08-03 09:00,2026-08-03 14:00,5,"$1,800.00",Bio Ops,False,Feed conveyor repair
+MNT-010,SVR-010,WO-260710,inspection,completed,08/07/2026 10:00,08/07/2026 12:00,2,525,Storage Team,false,Battery HVAC inspection
+MNT-010,SVR-010,WO-260710,inspection,completed,08/07/2026 10:00,08/07/2026 12:00,2,525,Storage Team,false,Battery HVAC inspection
+MNT-011,SVR-011,WO-260711,calibration,COMPLETED,10-Aug-2026 08:00,10-Aug-2026 11:00,3,$975.00,Hybrid Team A,FALSE,PCS meter calibration
+MNT-012,SVR-012,WO-260712,Preventive,Completed,2026/08/14 07:30,2026/08/14 12:30,5,"1,420.00",Hybrid Team B,false,Turbine and storage inspection
+MNT-013,SVR-001,WO-260713,inspection,completed,2026-08-18 09:00,2026-08-18 10:30,1.5,$310.00,Hydro Team A,false,Penstock visual inspection
+MNT-014,SVR-003,WO-260714,corrective ,Completed,08/21/2026 06:30,08/21/2026 12:00,5.5,"2,260.75",Solar Team 1,true,Tracker motor replacement
+MNT-015,SVR-005,WO-260715,PREVENTIVE,Completed,25-Aug-2026 07:00,25-Aug-2026 11:00,4,"$1,150.00",Wind Central,false,Yaw system service
+MNT-016,SVR-007,WO-260716,Inspection,completed,2026-08-29 08:00,2026-08-29 12:00,4,"4,600.00",Offshore Response,TRUE,Blade drone inspection
+MNT-017,SVR-008,WO-260717,Calibration,Completed,2026-09-03 09:00,2026-09-03 13:00,4,"$1,340.00",Geo Team,false,Steam flow meter calibration
+MNT-018,SVR-009,WO-260718,Corrective,Completed,2026-09-31 08:00,2026-09-30 13:00,5,"2,100.00",Bio Ops,true,Invalid start date intentionally supplied
+MNT-019,SVR-011,WO-260719, preventive ,COMPLETED,09/09/2026 07:00,09/09/2026 11:30,4.5,"$1,725.00",Hybrid Team A,false,Battery cooling loop inspection
+MNT-020,SVR-012,WO-260720,inspection,Completed,12-Sep-2026 08:30,12-Sep-2026 11:30,3,860,Hybrid Team B,FALSE,Transformer thermal scan
+MNT-021,SVR-002,WO-260721,Corrective,completed,2026/09/15 08:00,2026/09/15 13:00,five,"$2,450.00",Hydro Team B,true,Duration text intentionally malformed
+MNT-022,SVR-004,WO-260722,Inspection,COMPLETED,2026-09-19 10:00,2026-09-19 12:00,2,not available,Solar Team 2,false,Cost intentionally unavailable
+MNT-023,SVR-006,WO-260723,Preventive,Scheduled,09/24/2026 06:00,09/24/2026 09:00,3,$990.00,,false,Technician team intentionally blank
+MNT-024,SVR-010,WO-260724,Emergency,In Progress,28-Sep-2026 18:00,,,"$7,500.00",Storage Team,TRUE,Ongoing event; end and duration intentionally null
+,,,,,,,,,,,

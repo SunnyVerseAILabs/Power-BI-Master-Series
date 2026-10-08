@@ -1,0 +1,13 @@
+﻿RecordID,PlantID,PayloadType,PayloadText
+PAY-001,SVR-001,JSON,"{""eventCode"": ""ALERT"", ""severity"": ""Medium"", ""value"": 11.25, ""unit"": ""Pct""}"
+PAY-002,SVR-002,JSON,"{""eventCode"": ""QUALITY"", ""severity"": ""High"", ""value"": 12.5, ""unit"": ""Pct""}"
+PAY-003,SVR-003,JSON,"{""eventCode"": ""STATUS"", ""severity"": ""Low"", ""value"": 13.75, ""unit"": ""Pct""}"
+PAY-004,SVR-004,JSON,"{""eventCode"": ""ALERT"", ""severity"": ""Medium"", ""value"": 15.0, ""unit"": ""Pct""}"
+PAY-005,SVR-005,JSON,"{""eventCode"": ""QUALITY"", ""severity"": ""High"", ""value"": 16.25, ""unit"": ""Pct""}"
+PAY-006,SVR-006,JSON,"{""eventCode"":""ALERT"",""severity"":"
+PAY-007,SVR-007,XML,<payload><eventCode>ALERT</eventCode><severity>Medium</severity><value>18.75</value><unit>Pct</unit></payload>
+PAY-008,SVR-008,XML,<payload><eventCode>QUALITY</eventCode><severity>High</severity><value>20.0</value><unit>Pct</unit></payload>
+PAY-009,SVR-009,XML,<payload><eventCode>STATUS</eventCode><severity>Low</severity><value>21.25</value><unit>Pct</unit></payload>
+PAY-010,SVR-010,XML,<payload><eventCode>ALERT</eventCode><severity>Medium</severity><value>22.5</value><unit>Pct</unit></payload>
+PAY-011,SVR-011,XML,<payload><eventCode>QUALITY</eventCode><severity>High</severity><value>23.75</value><unit>Pct</unit></payload>
+PAY-012,SVR-012,XML,<payload><eventCode>STATUS</eventCode><severity>Low</severity><value>25.0</value><unit>Pct</unit></payload>

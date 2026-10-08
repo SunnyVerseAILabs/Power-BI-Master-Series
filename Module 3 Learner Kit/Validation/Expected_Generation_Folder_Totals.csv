@@ -1,0 +1,4 @@
+FileName,BusinessRows,ActualGenerationMWh,ForecastGenerationMWh,VarianceMWh
+2026_07_Generation.csv,341,703807.30,699936.00,3871.30
+2026_08_Generation.csv,341,703807.30,699936.00,3871.30
+2026_09_Generation.csv,330,681058.60,677270.54,3788.06

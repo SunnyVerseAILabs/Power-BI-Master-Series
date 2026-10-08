@@ -1,0 +1,4 @@
+﻿MaintenanceEventID,ErrorFields,Disposition
+MNT-018,StartDateTime,Exclude from prepared
+MNT-021,DurationHours,Retain with explicit repair/null
+MNT-022,CostUSD,Retain with explicit repair/null

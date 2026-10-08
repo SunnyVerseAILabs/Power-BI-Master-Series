@@ -1,0 +1,71 @@
+{
+  "page": 4,
+  "pageSize": 7,
+  "totalPages": 4,
+  "nextPage": null,
+  "data": [
+    {
+      "OperationID": "OP-0022",
+      "PlantID": "SVR-010",
+      "EventTimestampUTC": "2026-08-28T06:00:00Z",
+      "OperationType": "TelemetryQuality",
+      "Status": "Completed",
+      "Value": 96.4,
+      "Unit": "Pct"
+    },
+    {
+      "OperationID": "OP-0023",
+      "PlantID": "SVR-011",
+      "EventTimestampUTC": "2026-08-30T19:00:00Z",
+      "OperationType": "DispatchCheck",
+      "Status": "Open",
+      "Value": 100.1,
+      "Unit": "MW"
+    },
+    {
+      "OperationID": "OP-0024",
+      "PlantID": "SVR-012",
+      "EventTimestampUTC": "2026-09-02T08:00:00Z",
+      "OperationType": "MaintenanceSignal",
+      "Status": "Investigating",
+      "Value": 16.8,
+      "Unit": "Count"
+    },
+    {
+      "OperationID": "OP-0025",
+      "PlantID": "SVR-001",
+      "EventTimestampUTC": "2026-09-04T21:00:00Z",
+      "OperationType": "SetpointReview",
+      "Status": "Completed",
+      "Value": 20.5,
+      "Unit": "MW"
+    },
+    {
+      "OperationID": "OP-0026",
+      "PlantID": "SVR-002",
+      "EventTimestampUTC": "2026-09-07T10:00:00Z",
+      "OperationType": "TelemetryQuality",
+      "Status": "Completed",
+      "Value": 24.2,
+      "Unit": "Pct"
+    },
+    {
+      "OperationID": "OP-0027",
+      "PlantID": "SVR-003",
+      "EventTimestampUTC": "2026-09-09T23:00:00Z",
+      "OperationType": "DispatchCheck",
+      "Status": "Open",
+      "Value": 27.9,
+      "Unit": "MW"
+    },
+    {
+      "OperationID": "OP-0028",
+      "PlantID": "SVR-004",
+      "EventTimestampUTC": "2026-09-12T12:00:00Z",
+      "OperationType": "MaintenanceSignal",
+      "Status": "Investigating",
+      "Value": 31.6,
+      "Unit": "Count"
+    }
+  ]
+}

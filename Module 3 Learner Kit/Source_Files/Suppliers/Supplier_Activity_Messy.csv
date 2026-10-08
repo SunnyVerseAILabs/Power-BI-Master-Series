@@ -1,0 +1,37 @@
+﻿ActivityID,PlantID,SupplierNameRaw,SupplierCategoryRaw,CountryCode,ActivityDateText,AmountUSDText,PurchaseOrder
+ACT-001,SVR-001,NorthStar Turbine Services,Mechanical,US,07/07/2026, 2917.00 ,PO-260001
+ACT-002,SVR-002,HelioGrid Solar Components,Solar Components,US,12-Jul-2026,"3,334.00",PO-260002
+ACT-003,SVR-003,Cascade Hydro Works,Hydro Services,US,2026-07-17,"3,751.00",PO-260003
+ACT-004,SVR-004,GeoCore Drilling Systems,Geothermal Services,US,07/22/2026,"$4,168.00",PO-260004
+ACT-005,SVR-005,BioCycle Feedstock Partners,biomass supply,US,27-Jul-2026, 4585.00 ,PO-260005
+ACT-006,SVR-006,Storage Dynamics LLC,Battery Systems,US,2026-08-01,"5,002.00",PO-260006
+ACT-007,SVR-007,Atlantic Marine Wind Services,Offshore Services,US,08/06/2026,"5,419.00",PO-260007
+ACT-008,SVR-008,Prairie Electrical & Controls,Electrical,US,11-Aug-2026,"$5,836.00",PO-260008
+ACT-009,SVR-009,GridSense Analytics,Analytics,US,2026-08-16, 6253.00 ,PO-260009
+ACT-010,SVR-010,RenewOps Safety Solutions,safety,US,08/21/2026,"6,670.00",PO-260010
+ACT-011,SVR-011,GreenLink Logistics,Logistics,CA,26-Aug-2026,"7,087.00",PO-260011
+ACT-012,SVR-012,Apex Industrial Calibration,Calibration,US,2026-08-31,"$7,504.00",PO-260012
+ACT-013,SVR-001,North Star Turbine Svcs,Mechanical,US,09/05/2026, 7921.00 ,PO-260013
+ACT-014,SVR-002,Helio Grid Solar Comp.,Solar Components,US,10-Sep-2026,"8,338.00",PO-260014
+ACT-015,SVR-003,Cascade Hydro Wks,hydro services,US,2026-09-15,"8,755.00",PO-260015
+ACT-016,SVR-004,"Storage Dynamics, L.L.C.",Battery Systems,US,09/20/2026,"$9,172.00",PO-260016
+ACT-017,SVR-005,Prairie Electrical and Controls,Electrical,US,25-Sep-2026, 9589.00 ,PO-260017
+ACT-018,SVR-006,Green Link Logistics,Logistics,CA,2026-07-04,"10,006.00",PO-260018
+ACT-019,SVR-007,RenewOps Safety,Safety,US,07/09/2026,"10,423.00",PO-260019
+ACT-020,SVR-008,Apex Calibration,calibration,US,14-Jul-2026,"$10,840.00",PO-260020
+ACT-021,SVR-009,NorthStar Turbine Servces,Mechanical,US,2026-07-19, 11257.00 ,PO-260021
+ACT-022,SVR-010,HelioGrid Solar Component,Solar Components,US,07/24/2026,"11,674.00",PO-260022
+ACT-023,SVR-011,GeoCore Driling Systems,Geothermal Services,US,29-Jul-2026,"12,091.00",PO-260023
+ACT-024,SVR-012,BioCycle Feedstck Partners,Biomass Supply,US,2026-08-03,"$12,508.00",PO-260024
+ACT-025,SVR-001,Atlantic Marine Wnd Services,offshore services,US,08/08/2026, 12925.00 ,PO-260025
+ACT-026,SVR-002,GridSense Analytcs,Analytics,US,13-Aug-2026,"13,342.00",PO-260026
+ACT-027,SVR-003,RenewOps Saftey Solutions,Safety,US,2026-08-18,"13,759.00",PO-260027
+ACT-028,SVR-004,Apex Industrial Calibrtion,Calibration,US,08/23/2026,"$14,176.00",PO-260028
+ACT-029,SVR-005,Cascade Hydro Wrks,Hydro Services,US,28-Aug-2026, 14593.00 ,PO-260029
+ACT-030,SVR-006,Prairie Electrical & Contols,electrical,US,2026-09-02,"15,010.00",PO-260030
+ACT-031,SVR-007,BlueRiver Rotor Labs,Mechanical,US,09/07/2026,"15,427.00",PO-260031
+ACT-032,SVR-008,SunPeak Cable Supply,Electrical,US,12-Sep-2026,"$15,844.00",PO-260032
+ACT-033,SVR-009,Metro Valve Exchange,Logistics,US,2026-09-17, 16261.00 ,PO-260033
+ACT-034,SVR-010,Coastal Crane Partners,Offshore Services,US,09/22/2026,"16,678.00",PO-260034
+ACT-035,SVR-011,VoltEdge Controls,electrical,US,27-Sep-2026,"17,095.00",PO-260035
+ACT-036,SVR-012,TerraHeat Instrumentation,Calibration,US,2026-07-06,"$17,512.00",PO-260036

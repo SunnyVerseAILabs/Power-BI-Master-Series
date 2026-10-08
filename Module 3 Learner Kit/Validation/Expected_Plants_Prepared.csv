@@ -1,0 +1,13 @@
+﻿PlantID,PlantName,RegionID,TechnologyCode,GenerationCapacityMW,StoragePowerMW,StorageEnergyMWh,GenerationSequence
+SVR-001,Cascade Hydro One,R01,T04,300.00,0.00,0.00,1
+SVR-002,Rainshadow Hydro Two,R01,T04,180.00,0.00,0.00,2
+SVR-003,Solara Mesa Solar,R02,T01,220.00,0.00,0.00,3
+SVR-004,Red Rock Solar,R02,T01,180.00,0.00,0.00,4
+SVR-005,Prairie Wind One,R03,T02,250.00,0.00,0.00,5
+SVR-006,Prairie Wind Two,R03,T02,200.00,0.00,0.00,6
+SVR-007,Atlantic Horizon Wind,R04,T03,350.00,0.00,0.00,7
+SVR-008,GeoSpring One,R02,T06,120.00,0.00,0.00,8
+SVR-009,BioCycle Plains,R03,T07,80.00,0.00,0.00,9
+SVR-010,Battery Hub West,R02,T05,0.00,100.00,400.00,
+SVR-011,SunStore Hybrid,R02,T08,150.00,50.00,200.00,10
+SVR-012,WindStore Hybrid,R04,T09,160.00,40.00,160.00,11

@@ -1,0 +1,3 @@
+﻿FileName,Bytes,SHA256,PBIXVersion,PowerQueryVersion,CreatedFromRelease,LoadedTableCount,LoadedTables,ZipIntegrity,AutoCreatedRelationships
+Module_03_Data_Preparation_Lab.pbix,256305,8ac8723c7e835e5d3c3e893d8db350142220e0c5a6ccc8c9504e13908dac9be3,1.32,2.157.151.0,2026.08,11,ApiOperations_Prepared | Date_Prepared | Generation_Prepared | Maintenance_Prepared | Plants_Prepared | Regions_Prepared | SupplierActivity_Prepared | Suppliers_Prepared | Targets_Prepared | Time_Prepared | Weather_Prepared,PASS,0
+Module_03_Folding_Performance_Lab.pbix,3589951,65dce3457fae8a4e33e85a1ec2100277f87bb0c0ae2c4a0ddce435bdded14c65,1.32,2.157.151.0,2026.08,4,Perf_SQL_Buffered | Perf_SQL_Folded | Perf_SQL_Native | Perf_SQL_Unfolded,PASS,0

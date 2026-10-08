@@ -1,0 +1,12 @@
+PreparedOutput,ExpectedRows,PrimaryValidation
+Regions_Prepared,4,Unique RegionID; no unexplained blanks
+Plants_Prepared,12,Unique PlantID; BESS generation/storage semantics preserved
+Generation_Prepared,1012,Actual 2088673.20 MWh; Forecast 2077142.54 MWh
+Maintenance_Prepared,23,3 audited type/error rows; total valid/repaired cost 50536.50
+Targets_Prepared,69,23 wide rows unpivot to 69 rows across Jul-Sep 2026
+Suppliers_Prepared,12,Unique SupplierID
+SupplierActivity_Prepared,36,30 matched + 6 unmatched retained
+Weather_Prepared,20,20 region-day rows; 6 nested alerts
+ApiOperations_Prepared,28,4 pages x 7 rows; unique OperationID
+Date_Prepared,92,2026-07-01 through 2026-09-30 inclusive
+Time_Prepared,96,00:00 through 23:45 in 15-minute intervals

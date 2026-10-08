@@ -1,0 +1,37 @@
+﻿ActivityID,SupplierNameRaw,ExpectedSupplierID,ExpectedMatchMethod
+ACT-001,NorthStar Turbine Services,SUP-001,Exact
+ACT-002,HelioGrid Solar Components,SUP-002,Exact
+ACT-003,Cascade Hydro Works,SUP-003,Exact
+ACT-004,GeoCore Drilling Systems,SUP-004,Exact
+ACT-005,BioCycle Feedstock Partners,SUP-005,Exact
+ACT-006,Storage Dynamics LLC,SUP-006,Exact
+ACT-007,Atlantic Marine Wind Services,SUP-007,Exact
+ACT-008,Prairie Electrical & Controls,SUP-008,Exact
+ACT-009,GridSense Analytics,SUP-009,Exact
+ACT-010,RenewOps Safety Solutions,SUP-010,Exact
+ACT-011,GreenLink Logistics,SUP-011,Exact
+ACT-012,Apex Industrial Calibration,SUP-012,Exact
+ACT-013,North Star Turbine Svcs,SUP-001,Transformation
+ACT-014,Helio Grid Solar Comp.,SUP-002,Transformation
+ACT-015,Cascade Hydro Wks,SUP-003,Transformation
+ACT-016,"Storage Dynamics, L.L.C.",SUP-006,Transformation
+ACT-017,Prairie Electrical and Controls,SUP-008,Transformation
+ACT-018,Green Link Logistics,SUP-011,Transformation
+ACT-019,RenewOps Safety,SUP-010,Transformation
+ACT-020,Apex Calibration,SUP-012,Transformation
+ACT-021,NorthStar Turbine Servces,SUP-001,Fuzzy
+ACT-022,HelioGrid Solar Component,SUP-002,Fuzzy
+ACT-023,GeoCore Driling Systems,SUP-004,Fuzzy
+ACT-024,BioCycle Feedstck Partners,SUP-005,Fuzzy
+ACT-025,Atlantic Marine Wnd Services,SUP-007,Fuzzy
+ACT-026,GridSense Analytcs,SUP-009,Fuzzy
+ACT-027,RenewOps Saftey Solutions,SUP-010,Fuzzy
+ACT-028,Apex Industrial Calibrtion,SUP-012,Fuzzy
+ACT-029,Cascade Hydro Wrks,SUP-003,Fuzzy
+ACT-030,Prairie Electrical & Contols,SUP-008,Fuzzy
+ACT-031,BlueRiver Rotor Labs,,Unmatched
+ACT-032,SunPeak Cable Supply,,Unmatched
+ACT-033,Metro Valve Exchange,,Unmatched
+ACT-034,Coastal Crane Partners,,Unmatched
+ACT-035,VoltEdge Controls,,Unmatched
+ACT-036,TerraHeat Instrumentation,,Unmatched

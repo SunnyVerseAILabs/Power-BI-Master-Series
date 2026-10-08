@@ -1,0 +1,15 @@
+Metric,ExpectedValue,Unit
+Regions rows,4,rows
+Technologies rows,9,rows
+Plants rows,12,rows
+IntervalGeneration rows,500000,rows
+BatteryStorageInterval rows,50000,rows
+vw_ConnectivityLab rows,500000,rows
+IntervalGeneration full Actual,10727271.3600,MWh
+IntervalGeneration full Forecast,10727272.9111,MWh
+Q3 RangeStart/RangeEnd rows,97152,rows
+Q3 Range Actual,2084353.3725,MWh
+Q3 Range Forecast,2084352.9967,MWh
+Q3 Range Variance,0.3758,MWh
+RangeStart,2026-07-01T00:00:00,DateTime
+RangeEnd,2026-10-01T00:00:00,DateTime

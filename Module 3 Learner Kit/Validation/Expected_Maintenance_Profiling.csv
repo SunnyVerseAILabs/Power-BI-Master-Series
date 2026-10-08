@@ -1,0 +1,7 @@
+﻿ColumnName,PhysicalRows,Valid,Error,Empty,DistinctNonblank,Notes
+MaintenanceEventID,26,25,0,1,24,One exact duplicate event row plus one blank row
+StartDateTimeText -> datetime,26,24,1,1,24,MNT-018 has invalid 2026-09-31 start date
+EndDateTimeText -> datetime,26,24,0,2,23,MNT-024 is ongoing; blank physical row is also empty
+DurationHoursText -> decimal,26,23,1,2,16,MNT-021 contains five; MNT-024 duration is intentionally blank
+CostUSDText -> fixed decimal,26,24,1,1,23,MNT-022 contains not available
+TechnicianTeam,26,24,0,2,10,MNT-023 team blank plus blank physical row

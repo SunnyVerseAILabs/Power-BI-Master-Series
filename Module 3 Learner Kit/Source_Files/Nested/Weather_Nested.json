@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "source": "SunnyVerse Weather Training API",
+    "generatedAtUTC": "2026-10-02T06:00:00Z",
+    "units": {
+      "temperature": "C",
+      "windSpeed": "m/s",
+      "irradiance": "W/m2",
+      "precipitation": "mm"
+    }
+  },
+  "regions": [
+    {
+      "region": {
+        "regionId": "R01",
+        "regionName": "Pacific Northwest"
+      },
+      "observations": [
+        {
+          "observationDate": "2026-09-10",
+          "metrics": {
+            "temperatureC": 16.0,
+            "windSpeedMps": 3.5,
+            "irradianceWm2": 420,
+            "precipitationMm": 4.2
+          },
+          "alerts": [
+            {
+              "alertType": "Heavy Rain",
+              "severity": "Medium"
+            }
+          ]
+        },
+        {
+          "observationDate": "2026-09-11",
+          "metrics": {
+            "temperatureC": 16.8,
+            "windSpeedMps": 4.4,
+            "irradianceWm2": 455,
+            "precipitationMm": 3.7
+          },
+          "alerts": [
+            {
+              "alertType": "High Wind",
+              "severity": "Low"
+            }
+          ]
+        },
+        {
+          "observationDate": "2026-09-12",
+          "metrics": {
+            "temperatureC": 17.6,
+            "windSpeedMps": 5.3,
+            "irradianceWm2": 490,
+            "precipitationMm": 3.2
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-13",
+          "metrics": {
+            "temperatureC": 18.4,
+            "windSpeedMps": 3.5,
+            "irradianceWm2": 525,
+            "precipitationMm": 2.7
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-14",
+          "metrics": {
+            "temperatureC": 19.2,
+            "windSpeedMps": 4.4,
+            "irradianceWm2": 560,
+            "precipitationMm": 2.2
+          },
+          "alerts": []
+        }
+      ]
+    },
+    {
+      "region": {
+        "regionId": "R02",
+        "regionName": "Desert Southwest"
+      },
+      "observations": [
+        {
+          "observationDate": "2026-09-10",
+          "metrics": {
+            "temperatureC": 21.0,
+            "windSpeedMps": 5.2,
+            "irradianceWm2": 510,
+            "precipitationMm": 2.8
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-11",
+          "metrics": {
+            "temperatureC": 21.8,
+            "windSpeedMps": 6.1,
+            "irradianceWm2": 545,
+            "precipitationMm": 2.3
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-12",
+          "metrics": {
+            "temperatureC": 22.6,
+            "windSpeedMps": 7.0,
+            "irradianceWm2": 580,
+            "precipitationMm": 1.8
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-13",
+          "metrics": {
+            "temperatureC": 23.4,
+            "windSpeedMps": 5.2,
+            "irradianceWm2": 615,
+            "precipitationMm": 1.3
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-14",
+          "metrics": {
+            "temperatureC": 24.2,
+            "windSpeedMps": 6.1,
+            "irradianceWm2": 650,
+            "precipitationMm": 0.8
+          },
+          "alerts": [
+            {
+              "alertType": "Heat Advisory",
+              "severity": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": {
+        "regionId": "R03",
+        "regionName": "Great Plains"
+      },
+      "observations": [
+        {
+          "observationDate": "2026-09-10",
+          "metrics": {
+            "temperatureC": 26.0,
+            "windSpeedMps": 6.9,
+            "irradianceWm2": 600,
+            "precipitationMm": 1.4
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-11",
+          "metrics": {
+            "temperatureC": 26.8,
+            "windSpeedMps": 7.8,
+            "irradianceWm2": 635,
+            "precipitationMm": 0.9
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-12",
+          "metrics": {
+            "temperatureC": 27.6,
+            "windSpeedMps": 8.7,
+            "irradianceWm2": 670,
+            "precipitationMm": 0.4
+          },
+          "alerts": [
+            {
+              "alertType": "High Wind",
+              "severity": "High"
+            }
+          ]
+        },
+        {
+          "observationDate": "2026-09-13",
+          "metrics": {
+            "temperatureC": 28.4,
+            "windSpeedMps": 6.9,
+            "irradianceWm2": 705,
+            "precipitationMm": 0
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-14",
+          "metrics": {
+            "temperatureC": 29.2,
+            "windSpeedMps": 7.8,
+            "irradianceWm2": 740,
+            "precipitationMm": 0
+          },
+          "alerts": []
+        }
+      ]
+    },
+    {
+      "region": {
+        "regionId": "R04",
+        "regionName": "Atlantic Coast"
+      },
+      "observations": [
+        {
+          "observationDate": "2026-09-10",
+          "metrics": {
+            "temperatureC": 31.0,
+            "windSpeedMps": 8.6,
+            "irradianceWm2": 690,
+            "precipitationMm": 0
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-11",
+          "metrics": {
+            "temperatureC": 31.8,
+            "windSpeedMps": 9.5,
+            "irradianceWm2": 725,
+            "precipitationMm": 0
+          },
+          "alerts": [
+            {
+              "alertType": "Coastal Wind",
+              "severity": "Medium"
+            }
+          ]
+        },
+        {
+          "observationDate": "2026-09-12",
+          "metrics": {
+            "temperatureC": 32.6,
+            "windSpeedMps": 10.4,
+            "irradianceWm2": 760,
+            "precipitationMm": 0
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-13",
+          "metrics": {
+            "temperatureC": 33.4,
+            "windSpeedMps": 8.6,
+            "irradianceWm2": 795,
+            "precipitationMm": 0
+          },
+          "alerts": []
+        },
+        {
+          "observationDate": "2026-09-14",
+          "metrics": {
+            "temperatureC": 34.2,
+            "windSpeedMps": 9.5,
+            "irradianceWm2": 830,
+            "precipitationMm": 0
+          },
+          "alerts": [
+            {
+              "alertType": "Coastal Wind",
+              "severity": "High"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

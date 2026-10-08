@@ -1,0 +1,6 @@
+Variant,File,ExpectedRows,Truth
+Renamed_Column,2026_07_Generation_RENAMED.csv,341,PlantID renamed to PlantIdentifier; all business values unchanged
+Added_Column,Monthly_Targets_Wide_ADDED_OCT.xlsx,23,Adds 2026-10 month; resilient unpivot should produce 92 long rows
+Reordered_Columns,2026_08_Generation_REORDERED.csv,341,Same seven business columns in different physical order
+Changed_Type,2026_09_Generation_CHANGED_TYPE.csv,330,Exactly one ActualGenerationMWh cell contains not_available
+New_Folder_Layout,Monthly_Plant_Extracts/,1012,July/Aug root; September nested under 2026/Q3; all business rows preserved
