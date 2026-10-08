@@ -1,8 +1,0 @@
-﻿Metric,ExpectedValue
-WorkOrderRows,23
-TaskRows,46
-CompletedWorkOrders,20
-ScheduledWorkOrders,2
-InProgressWorkOrders,1
-TotalDurationHours,86.00
-TotalCostUSD,50536.50

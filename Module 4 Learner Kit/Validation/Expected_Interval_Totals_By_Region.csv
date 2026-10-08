@@ -1,5 +1,0 @@
-﻿RegionKey,RegionName,IntervalRows,ActualGenerationMWh,ForecastGenerationMWh,VarianceMWh
-1,Pacific Northwest,90910,2836390.1280,2836390.6783,-0.5503
-2,Desert Southwest,181818,2761353.7785,2761353.6932,0.0853
-3,Great Plains,136364,2652285.1235,2652285.6299,-0.5064
-4,Atlantic Coast,90908,2477242.3300,2477242.9097,-0.5797
