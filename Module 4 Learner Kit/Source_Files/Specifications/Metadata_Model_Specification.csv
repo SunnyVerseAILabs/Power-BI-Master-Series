@@ -1,0 +1,16 @@
+﻿Object,Action,Value,Rationale
+DimPlant.PlantKey,Hide,Yes,Technical surrogate key; use business attributes in report authoring.
+DimPlant.PlantID,Default summarization,Do not summarize,"Identifier, not a measure."
+DimPlant.GenerationCapacityMW,Default summarization,Sum,Additive across different plants at a point in time; later measures govern time behavior.
+DimRegion.RegionName,Data category,Place,Geographic label.
+DimRegion.Latitude,Data category,Latitude,Map metadata.
+DimRegion.Longitude,Data category,Longitude,Map metadata.
+DimRegion.RegionWebsiteURL,Data category,Web URL,URL metadata demonstration.
+DimRegion.RegionImageURL,Data category,Image URL,Image URL metadata demonstration.
+DimDate.MonthName,Sort by column,MonthNumber,Chronological month ordering.
+DimDate.FiscalQuarter,Sort by column,FiscalMonthNumber/derived fiscal order,Fiscal chronology.
+FactIntervalGeneration.ActualGenerationMWh,Format string,"#,0.00 MWh",Model-level unit presentation.
+FactIntervalGeneration.ForecastGenerationMWh,Format string,"#,0.00 MWh",Model-level unit presentation.
+Semantic model,Discourage implicit measures,True,Professional explicit-measure architecture; calculation teaching starts Module Five.
+DimPlant.PlantName,Synonyms,Plant; Asset; Facility,Natural-language metadata awareness.
+DimRegion.RegionName,Synonyms,Region; Operating region,Natural-language metadata awareness.

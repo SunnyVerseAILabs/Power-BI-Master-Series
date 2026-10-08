@@ -1,0 +1,12 @@
+﻿ObjectName,Key,Rows,DistinctKeys,DuplicateRowsBeyondFirst
+Model_DimRegion,RegionKey,4,4,0
+Model_DimTechnology,TechnologyKey,9,9,0
+Model_DimPlantCurrent,PlantKey,12,12,0
+Model_DimPlantCurrent,PlantID,12,12,0
+Model_DimPlantHistory,PlantSK,17,17,0
+Model_DimDate_Source,DateKey,1096,1096,0
+Model_DimTime_Source,TimeKey,96,96,0
+Model_DimEquipment,EquipmentKey,36,36,0
+Model_DimSupplier,SupplierKey,12,12,0
+Model_DimContract,ContractKey,8,8,0
+Duplicate_DimPlant.csv,PlantKey,13,12,1

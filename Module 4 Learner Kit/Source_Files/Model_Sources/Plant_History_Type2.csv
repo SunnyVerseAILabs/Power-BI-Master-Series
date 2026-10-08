@@ -1,0 +1,18 @@
+﻿PlantKey,PlantID,PlantName,SiteName,RegionKey,TechnologyKey,GenerationCapacityMW,StoragePowerMW,StorageEnergyMWh,CommissioningDate,CommissioningDateKey,OperatingStatus,PlantSK,VersionNumber,EffectiveStartDate,EffectiveEndDate,IsCurrent,ChangeReason
+1,SVR-001,Cascade Hydro One,Cascade Hydro Site,1,4,300.00,0.00,0.00,2024-01-15,20240115,Active,101,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+2,SVR-002,Rainshadow Hydro Two,Rainshadow Hydro Site,1,4,180.00,0.00,0.00,2024-03-01,20240301,Active,201,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+3,SVR-003,Solara Mesa Solar,Solara Mesa Solar,2,1,200.00,0.00,0.00,2024-05-20,20240520,Active,301,1,2024-01-01,2025-12-31,FALSE,Capacity uprate effective 2026-01-01
+3,SVR-003,Solara Mesa Solar,Solara Mesa Solar,2,1,220.00,0.00,0.00,2024-05-20,20240520,Active,302,2,2026-01-01,9999-12-31,TRUE,Current post-uprate version
+4,SVR-004,Red Rock Solar,Red Rock Solar,2,1,180.00,0.00,0.00,2024-07-10,20240710,Active,401,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+5,SVR-005,Prairie Wind One,Prairie Wind Site,3,2,230.00,0.00,0.00,2024-09-15,20240915,Active,501,1,2024-01-01,2025-12-31,FALSE,Capacity uprate effective 2026-01-01
+5,SVR-005,Prairie Wind One,Prairie Wind Site,3,2,250.00,0.00,0.00,2024-09-15,20240915,Active,502,2,2026-01-01,9999-12-31,TRUE,Current post-uprate version
+6,SVR-006,Prairie Wind Two,Prairie Wind Site,3,2,200.00,0.00,0.00,2024-11-01,20241101,Active,601,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+7,SVR-007,Atlantic Horizon Wind,Atlantic Horizon Wind,4,3,320.00,0.00,0.00,2025-01-20,20250120,Active,701,1,2024-01-01,2025-12-31,FALSE,Capacity uprate effective 2026-01-01
+7,SVR-007,Atlantic Horizon Wind,Atlantic Horizon Wind,4,3,350.00,0.00,0.00,2025-01-20,20250120,Active,702,2,2026-01-01,9999-12-31,TRUE,Current post-uprate version
+8,SVR-008,GeoSpring One,GeoSpring Site,2,6,120.00,0.00,0.00,2025-02-15,20250215,Active,801,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+9,SVR-009,BioCycle Plains,BioCycle Plains,3,7,80.00,0.00,0.00,2025-03-10,20250310,Active,901,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+10,SVR-010,Battery Hub West,Battery Hub West,2,5,0.00,100.00,400.00,2025-04-05,20250405,Active,1001,1,2024-01-01,9999-12-31,TRUE,Initial/current version
+11,SVR-011,SunStore Hybrid,SunStore Hybrid,2,8,140.00,50.00,200.00,2025-05-12,20250512,Active,1101,1,2024-01-01,2025-12-31,FALSE,Capacity uprate effective 2026-01-01
+11,SVR-011,SunStore Hybrid,SunStore Hybrid,2,8,150.00,50.00,200.00,2025-05-12,20250512,Active,1102,2,2026-01-01,9999-12-31,TRUE,Current post-uprate version
+12,SVR-012,WindStore Hybrid,WindStore Hybrid,4,9,150.00,40.00,160.00,2025-06-18,20250618,Active,1201,1,2024-01-01,2025-12-31,FALSE,Capacity uprate effective 2026-01-01
+12,SVR-012,WindStore Hybrid,WindStore Hybrid,4,9,160.00,40.00,160.00,2025-06-18,20250618,Active,1202,2,2026-01-01,9999-12-31,TRUE,Current post-uprate version

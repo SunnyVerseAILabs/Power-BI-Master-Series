@@ -1,0 +1,6 @@
+﻿Scenario,Source,ExpectedRows,ExpectedProblemRows,ExpectedProof
+Duplicate dimension key,Duplicate_DimPlant.csv,13,1,PlantKey 3 appears twice; cannot serve as a valid one-side unique key.
+Orphan fact key,Orphan_Fact_Sample.csv,20,1,PlantKey 999 has no DimPlant match; regular relationship exposes blank unknown member.
+Missing date coverage,Missing_Date_Coverage.csv,6,1,DateKey 20270105 is outside DimDate max 20261231.
+Accidental many-to-many,ManyToMany_Left/Right.csv,8 / 7,Repeated on both sides,PlantID repeats in both tables; direct relationship would be *:*.
+Assume RI violation,Model_FactIntervalGeneration_RI_Broken,500005,5,"Inner join to DimPlant returns 500000, so 5 orphan rows can disappear when RI is assumed."

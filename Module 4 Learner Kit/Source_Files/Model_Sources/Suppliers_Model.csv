@@ -1,0 +1,13 @@
+﻿SupplierKey,SupplierID,SupplierName,SupplierCategory,CountryCode,PreferredFlag,RiskTier
+1,SUP-001,NorthStar Turbine Services,Mechanical,US,TRUE,Medium
+2,SUP-002,HelioGrid Solar Components,Solar Components,US,TRUE,Low
+3,SUP-003,Cascade Hydro Works,Hydro Services,US,TRUE,Low
+4,SUP-004,GeoCore Drilling Systems,Geothermal Services,US,FALSE,Medium
+5,SUP-005,BioCycle Feedstock Partners,Biomass Supply,US,TRUE,Medium
+6,SUP-006,Storage Dynamics LLC,Battery Systems,US,TRUE,Low
+7,SUP-007,Atlantic Marine Wind Services,Offshore Services,US,TRUE,High
+8,SUP-008,Prairie Electrical & Controls,Electrical,US,TRUE,Low
+9,SUP-009,GridSense Analytics,Analytics,US,FALSE,Low
+10,SUP-010,RenewOps Safety Solutions,Safety,US,TRUE,Low
+11,SUP-011,GreenLink Logistics,Logistics,CA,FALSE,Medium
+12,SUP-012,Apex Industrial Calibration,Calibration,US,TRUE,Low

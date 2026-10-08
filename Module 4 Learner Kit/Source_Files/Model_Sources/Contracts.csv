@@ -1,0 +1,9 @@
+﻿ContractKey,ContractID,ContractName,ContractType,StartDate,EndDate,Currency
+1,CON-001,Pacific Hydro Reliability,Operations,2025-01-01,2027-12-31,USD
+2,CON-002,Desert Solar PPA,Power Purchase,2025-04-01,2030-03-31,USD
+3,CON-003,Great Plains Wind Service,Service,2025-01-01,2028-12-31,USD
+4,CON-004,Atlantic Offshore Service,Service,2025-02-01,2029-01-31,USD
+5,CON-005,Storage Capacity Agreement,Capacity,2025-05-01,2028-04-30,USD
+6,CON-006,Renewable Portfolio Hedge,Commercial,2025-07-01,2027-06-30,USD
+7,CON-007,Safety & Compliance Framework,Compliance,2025-01-01,2027-12-31,USD
+8,CON-008,Calibration Services Master,Service,2025-01-01,2027-12-31,USD

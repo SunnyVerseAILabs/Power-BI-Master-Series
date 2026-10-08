@@ -1,0 +1,17 @@
+﻿From,To,Cardinality,Direction,Active,Purpose
+DimRegion.RegionKey,DimPlant.RegionKey,1:*,Single,Yes,Conformed regional filtering through plant.
+DimTechnology.TechnologyKey,DimPlant.TechnologyKey,1:*,Single,Yes,Technology filtering.
+DimPlant.PlantKey,FactIntervalGeneration.PlantKey,1:*,Single,Yes,Primary generation star relationship.
+DimDate.DateKey,FactIntervalGeneration.DateKey,1:*,Single,Yes,Generation date role.
+DimTime.TimeKey,FactIntervalGeneration.TimeKey,1:*,Single,Yes,Interval time-of-day role.
+DimDate.DateKey,FactMaintenanceWorkOrder.RaisedDateKey,1:*,Single,Yes,Primary maintenance date role.
+DimDate.DateKey,FactMaintenanceWorkOrder.StartDateKey,1:*,Single,No,Inactive role-playing start-date path.
+DimDate.DateKey,FactMaintenanceWorkOrder.ClosedDateKey,1:*,Single,No,Inactive role-playing closed-date path.
+DimDate.DateKey,FactGenerationForecast.TargetDateKey,1:*,Single,Yes,Primary forecast target-date role.
+DimDate.DateKey,FactGenerationForecast.IssueDateKey,1:*,Single,No,Inactive forecast issue-date role.
+DimRegion.RegionKey,FactRegionalTargetMonthly.RegionKey,1:*,Single,Yes,Mixed-granularity target conformance.
+DimDate.DateKey,FactRegionalTargetMonthly.TargetMonthKey,1:*,Single,Yes,Monthly target date role; target fact remains monthly grain.
+DimPlant.PlantKey,BridgePlantContract.PlantKey,1:*,Single/Both only when justified,Yes,Plant-contract bridge.
+DimContract.ContractKey,BridgePlantContract.ContractKey,1:*,Single,Yes,Contract bridge side.
+DimEquipment.EquipmentKey,BridgeEquipmentSupplier.EquipmentKey,1:*,Single/Both only when justified,Yes,Equipment-supplier bridge.
+DimSupplier.SupplierKey,BridgeEquipmentSupplier.SupplierKey,1:*,Single,Yes,Supplier bridge side.
