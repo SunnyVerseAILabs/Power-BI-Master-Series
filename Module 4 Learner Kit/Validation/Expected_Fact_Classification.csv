@@ -1,0 +1,5 @@
+﻿SunnyVerseFact,FactType,Grain,ExpectedRows
+Model_FactIntervalGeneration,Transactional / interval,One generating plant per 15-minute reading,500000
+Model_FactBatteryDailySnapshot,Periodic snapshot,One storage asset per date,522
+Model_FactMaintenanceWorkOrder,Accumulating snapshot,One work-order lifecycle,23
+Model_FactInspectionSchedule,Factless fact,One scheduled inspection event,36

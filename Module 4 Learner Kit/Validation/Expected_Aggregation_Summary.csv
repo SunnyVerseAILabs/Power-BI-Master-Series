@@ -1,0 +1,6 @@
+﻿Metric,ExpectedValue
+AggregationRows,5214
+DetailRowsRepresented,500000
+ActualGenerationMWh,10727271.3600
+ForecastGenerationMWh,10727272.9111
+VarianceMWh,-1.5511

@@ -1,0 +1,13 @@
+﻿PlantKey,GridConnectionClass,ComplianceTier
+1,Transmission,Tier 1
+2,Subtransmission,Tier 2
+3,Distribution,Tier 1
+4,Transmission,Tier 2
+5,Subtransmission,Tier 1
+6,Distribution,Tier 2
+7,Transmission,Tier 1
+8,Subtransmission,Tier 2
+9,Distribution,Tier 1
+10,Transmission,Tier 2
+11,Subtransmission,Tier 1
+12,Distribution,Tier 2
