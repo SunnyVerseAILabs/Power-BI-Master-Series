@@ -1,5 +1,0 @@
-﻿RegionKey,RegionID,RegionName,TimeZoneName,CountryCode,Latitude,Longitude,RegionWebsiteURL,RegionImageURL
-1,R01,Pacific Northwest,America/Los_Angeles,US,45.5152,-122.6784,https://sunnyverse.example/regions/r01,https://sunnyverse.example/images/r01.png
-2,R02,Desert Southwest,America/Phoenix,US,33.4484,-112.074,https://sunnyverse.example/regions/r02,https://sunnyverse.example/images/r02.png
-3,R03,Great Plains,America/Chicago,US,41.2565,-95.9345,https://sunnyverse.example/regions/r03,https://sunnyverse.example/images/r03.png
-4,R04,Atlantic Coast,America/New_York,US,36.8508,-76.2859,https://sunnyverse.example/regions/r04,https://sunnyverse.example/images/r04.png

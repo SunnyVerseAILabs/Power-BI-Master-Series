@@ -1,9 +1,0 @@
-﻿MaintenanceFlagsKey,SafetyCritical,PlannedFlag,RequiresShutdown,FlagLabel
-1,FALSE,FALSE,FALSE,Safety=N | Planned=N | Shutdown=N
-2,FALSE,FALSE,TRUE,Safety=N | Planned=N | Shutdown=Y
-3,FALSE,TRUE,FALSE,Safety=N | Planned=Y | Shutdown=N
-4,FALSE,TRUE,TRUE,Safety=N | Planned=Y | Shutdown=Y
-5,TRUE,FALSE,FALSE,Safety=Y | Planned=N | Shutdown=N
-6,TRUE,FALSE,TRUE,Safety=Y | Planned=N | Shutdown=Y
-7,TRUE,TRUE,FALSE,Safety=Y | Planned=Y | Shutdown=N
-8,TRUE,TRUE,TRUE,Safety=Y | Planned=Y | Shutdown=Y
